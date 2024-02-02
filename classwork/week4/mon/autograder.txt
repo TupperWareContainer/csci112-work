@@ -1,0 +1,25 @@
+TEST 1: Source file exists
+PASS
+
+TEST 2: Source file compiles without warnings
+PASS
+
+TEST 3: program gives correct output
+For input a:
+PASS
+
+For input x:
+PASS
+
+For input D:
+PASS
+
+For input c:
+PASS
+
+TEST 4: uses a switch statement
+PASS
+
+full credit
+Last updated on:
+Fri Feb  2 09:16:42 AM MST 2024
