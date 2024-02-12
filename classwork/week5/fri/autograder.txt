@@ -1,0 +1,16 @@
+TEST 1: Source file exists
+PASS
+
+TEST 2: Source file compiles without warnings
+PASS
+
+TEST 3: program gives correct output
+For input /public/classwork/week5/fri/input1.txt:
+PASS
+
+TEST 4: program uses a multidimensional array
+PASS
+
+full credit
+Last updated on:
+Mon Feb 12 08:42:30 AM MST 2024
