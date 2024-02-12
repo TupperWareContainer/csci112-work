@@ -1,0 +1,22 @@
+TEST 1: Source file exists
+PASS
+
+TEST 2: Source file compiles without warnings
+PASS
+
+TEST 3: program gives correct output
+For input x y:
+PASS
+
+For input a A:
+PASS
+
+For input ~ 0:
+PASS
+
+For input c c:
+PASS
+
+full credit
+Last updated on:
+Mon Feb 12 08:18:57 AM MST 2024
