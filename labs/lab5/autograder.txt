@@ -1,0 +1,41 @@
+TEST 1 (10 points): Source file exists
+PASS
+
+TEST 2 (10 points): Source file compiles without warnings
+PASS
+
+TEST 3 (10 points): printing answers is formatted correctly
+PASS
+
+TEST 4 (15 points): printing scores by id is formatted correctly
+PASS
+
+TEST 4 (10 points): printing number of questions missed is formatted correctly
+PASS
+
+TEST 5 (45 points): correct outputs for each input
+	test file: /public/labs/lab5/results1.txt
+		questions
+		PASS
+		grades
+		PASS
+		missed
+		PASS
+	test file: /public/labs/lab5/results2.txt
+		questions
+		PASS
+		grades
+		PASS
+		missed
+		PASS
+	test file: /public/labs/lab5/results3.txt
+		questions
+		PASS
+		grades
+		PASS
+		missed
+		PASS
+
+Total score: 100/100
+Last updated on:
+Thu Feb 22 10:29:15 AM MST 2024

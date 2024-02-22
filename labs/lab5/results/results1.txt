@@ -1,0 +1,7 @@
+6 ccddab
+100 bcddab
+107 ccddcb
+11 aaddab
+115 bbccab
+10 cdcdab
+87 ccddab
