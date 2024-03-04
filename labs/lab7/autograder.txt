@@ -1,0 +1,36 @@
+TEST 1 (10 points): Source file exists
+PASS
+
+TEST 2 (10 points): Source file compiles without warnings
+PASS
+
+TEST 3 (5 points): reads from /public/labs/lab7/counties1.txt
+PASS
+
+TEST 4 (5 points): uses fgets to read input
+PASS
+
+TEST 5 (5 points): uses fprintf to write output
+PASS
+
+TEST 6 (10 points): uses strtok to separate parts of the line
+PASS
+
+TEST 7 (5 points): printing arrays is formatted correctly in output to console
+PASS
+
+TEST 8 (50 points): correct outputs for each input
+	test file: /public/labs/lab7/counties1.txt
+		output is sorted
+		PASS
+		includes correct county name, population, and county seat
+		PASS
+	test file: /public/labs/lab7/counties2.txt
+		output is sorted
+		PASS
+		includes correct county name, population, and county seat
+		PASS
+
+Total score: 100/100
+Last updated on:
+Mon Mar  4 09:02:39 AM MST 2024
