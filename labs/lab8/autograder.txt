@@ -1,0 +1,39 @@
+TEST 1 (10 points): Source file exists
+PASS
+
+TEST 2 (10 points): Source file compiles without warnings
+PASS
+
+TEST 3 (5 points): uses sscanf to convert the population from a string to int
+PASS
+
+TEST 4 (5 points): defines a County struct with fields called name, seat, and pop
+PASS
+
+TEST 5 (5 points): creates an array of type County to store data for all counties
+PASS
+
+TEST 6 (5 points): defines a function add_county that returns a County and takes in name, seat, and pop
+PASS
+
+TEST 7 (5 points): calls function add_county
+PASS
+
+TEST 8 (5 points): reads from /public/labs/lab8/counties1.txt
+PASS
+
+TEST 9 (50 points): correct outputs for each input
+	test file: /public/labs/lab8/counties1.txt
+		county seat query works
+		PASS
+		population range query works
+		PASS
+	test file: /public/labs/lab8/counties2.txt
+		county seat query works
+		PASS
+		population range query works
+		PASS
+
+Total score: 100/100
+Last updated on:
+Wed Mar 20 01:54:05 PM MDT 2024
