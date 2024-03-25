@@ -1,0 +1,16 @@
+TEST 1: all three files exists
+PASS
+
+TEST 2: Source file compiles without warnings
+PASS
+
+TEST 3: program gives correct output
+TEST 4: location.h defines a Location struct
+PASS
+
+TEST 5: coordinates.h defines a Coordinates struct
+PASS
+
+full credit
+Last updated on:
+Mon Mar 25 08:14:37 AM MDT 2024
