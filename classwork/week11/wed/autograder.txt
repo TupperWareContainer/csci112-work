@@ -1,0 +1,12 @@
+TEST 1: Makefile file exists
+PASS
+
+TEST 2: program compiles with make
+PASS
+
+TEST 3: program gives correct output
+PASS
+
+full credit
+Last updated on:
+Mon Mar 25 09:08:08 AM MDT 2024
