@@ -1,0 +1,9 @@
+TEST 1: Program compiles without warnings
+PASS
+
+TEST 2: program gives correct output
+PASS
+
+full credit
+Last updated on:
+Wed Apr  3 08:05:23 AM MDT 2024
