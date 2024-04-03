@@ -1,0 +1,12 @@
+TEST 1: Source file exists
+PASS
+
+TEST 2: Source file compiles without warnings
+PASS
+
+TEST 3: program gives correct output
+PASS
+
+full credit
+Last updated on:
+Wed Apr  3 07:55:48 AM MDT 2024
