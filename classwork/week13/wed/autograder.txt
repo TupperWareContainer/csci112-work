@@ -1,0 +1,15 @@
+TEST 1: Source file exists
+PASS
+
+TEST 2: Source file compiles without warnings
+PASS
+
+TEST 3: program gives correct output
+PASS
+
+TEST 4: all memory is freed
+PASS
+
+full credit
+Last updated on:
+Mon Apr  8 08:26:27 AM MDT 2024
