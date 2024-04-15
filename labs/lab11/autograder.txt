@@ -1,0 +1,40 @@
+TEST 1 (5 points): team.c defines the functions from team.h
+PASS
+
+TEST 2 (5 points): make compiles the executable lab11 without warnings
+PASS
+
+TEST 3 (10 points): main.c and team.h are unchanged
+PASS
+
+TEST 4 (10 points): no typecasts are used
+PASS
+
+TEST 5 (70 points): correct outputs for each input; memory freed
+	for input: 7 a b c d e f g 2 2 x y
+		output matches
+		PASS
+		no memory leaks
+		PASS
+	for input: 0 2 2 x y
+		output matches
+		PASS
+		no memory leaks
+		PASS
+	for input: 1 Sarah 1 10 1 2 3 4 5 6 7 8 9 10
+		output matches
+		PASS
+		no memory leaks
+		PASS
+	for input: 4 Leonardo Donatello Raphael Michelangelo 4 2 SpongeBob Patrick
+		output matches
+		PASS
+		no memory leaks
+		PASS
+
+TEST 6 (10 points): uses heap memory for Person nodes
+PASS
+
+Total score: 100/100
+Last updated on:
+Mon Apr 15 08:28:58 AM MDT 2024
