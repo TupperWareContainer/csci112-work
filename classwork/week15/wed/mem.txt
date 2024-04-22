@@ -1,0 +1,3 @@
+2 memory errors, 1 memory leak, 
+memory errors were caused by trying to read invalid memory as that is what the error states, 
+memory leaks were caused by dynamic memory not being freed as that is the definition of a memory leak.
