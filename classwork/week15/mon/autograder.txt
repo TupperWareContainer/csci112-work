@@ -1,0 +1,18 @@
+TEST 1: Source file exists
+PASS
+
+TEST 2: Source file compiles without warnings
+PASS
+
+TEST 3: program gives correct output
+PASS
+
+TEST 4: program gives correct output
+PASS
+
+TEST 5: no memory leaks
+PASS
+
+full credit
+Last updated on:
+Mon Apr 22 08:01:22 AM MDT 2024
