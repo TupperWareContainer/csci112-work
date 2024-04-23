@@ -1,0 +1,40 @@
+TEST 1 (10 points): team.h has function prototypes for required functions
+PASS
+
+TEST 2 (5 points): team.c defines the functions from team.h
+PASS
+
+TEST 3 (5 points): make compiles the executable lab12 without warnings
+PASS
+
+TEST 4 (5 points): no typecasts are used
+PASS
+
+TEST 5 (5 points): create_new_person creates a person on the heap
+PASS
+
+TEST 6 (5 points): uses realloc when the array's capacity needs to increase
+PASS
+
+TEST 7 (5 points): uses realloc when the array's capacity needs to decrease
+PASS
+
+TEST 8 (40 points): correct outputs for each input
+	for input: 5 8 bob nancy bea andrew cedar walter jordan alpha 2 5 sal evan leo llewyn travis
+		output matches
+		PASS
+	for input: 4 5 a b c d e 10 6 a b c d e f
+		output matches
+		PASS
+	for input: 2 5 1 2 3 4 5 1 6 6 7 8 9 10 11 12
+		output matches
+		PASS
+	for input: 10 0 0 3 x y z
+		output matches
+		PASS
+
+TEST 9 (20 points): no memory leaks or errors--test not shared; you should check with valgrind
+
+Total score: 80/100
+Last updated on:
+Tue Apr 23 10:08:47 AM MDT 2024
