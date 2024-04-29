@@ -1,0 +1,9 @@
+TEST 1: Source files compile without warnings
+PASS
+
+TEST 2: program gives correct output
+PASS
+
+full credit
+Last updated on:
+Mon Apr 29 07:57:40 AM MDT 2024
